@@ -1,0 +1,8 @@
+gym
+tensorflow==1.15.2
+pandas==0.25.3
+recogym
+tensorboardx
+tensorflow_probability==0.7
+bottleneck
+seaborn
